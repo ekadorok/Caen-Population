@@ -4,6 +4,7 @@
 This project explores demographic and socioeconomic indicators 
 across the communes of the Caen-la-Mer agglomeration (Normandy, France), 
 using spatial and statistical data visualization. 
+👉 [View Interactive Dashboard]([https://public.tableau.com/ссылка](https://public.tableau.com/views/populCaenlamerv2/Tableaudebord2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Key Indicators Analyzed
 - Population density by commune
@@ -13,11 +14,10 @@ using spatial and statistical data visualization.
 
 
 ## 🗺 Viz
-![Dashboard Tableau](popul_Caen_la_mer.twbx)
 ![Dashboard Pic](popul_Caen_la_mer.jpeg)
 ![Population Density in 2022](popul_density.jpeg)
 ![Evolution of population by age, sex](distr_by_age_sexe_year.jpeg)
-![Distribution of population by age in 2022](popul_age.jpeg)
+![Distribution of population by age in 2022](popul_age.png)
 
 
 ## 🛠 Tools & Technologies
