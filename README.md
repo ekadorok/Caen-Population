@@ -4,7 +4,7 @@
 This project explores demographic and socioeconomic indicators 
 across the communes of the Caen-la-Mer agglomeration (Normandy, France), 
 using spatial and statistical data visualization. 
-👉 [View Interactive Dashboard]([https://public.tableau.com/ссылка](https://public.tableau.com/views/populCaenlamerv2/Tableaudebord2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [View Interactive Dashboard](https://public.tableau.com/views/populCaenlamerv2/Tableaudebord2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ## 📊 Key Indicators Analyzed
 - Population density by commune
